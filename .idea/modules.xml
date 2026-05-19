@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Trabalho-AP.iml" filepath="$PROJECT_DIR$/.idea/Trabalho-AP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalhopo/Trabalhopo.iml" filepath="$PROJECT_DIR$/Trabalhopo/Trabalhopo.iml" />
+    </modules>
+  </component>
+</project>
